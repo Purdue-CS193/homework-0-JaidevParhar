@@ -1,4 +1,4 @@
-## Jaidev Parhar's First CS193 Homework
+# Jaidev Parhar's First CS193 Homework
 ## Welcome to GitHub Pages
 
 
