@@ -1,9 +1,9 @@
 # Jaidev Parhar's First CS193 Homework
 ## Welcome to GitHub Pages
 Things I love about CS193
-- No tests
-- No traditional tests
-- Really cool teaching style
+-  No tests
+-  No traditional tests
+-  Really cool teaching style
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
